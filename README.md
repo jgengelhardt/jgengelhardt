@@ -14,7 +14,7 @@ Here are some ideas:
 - ⚡ Fun fact: ... -->
 
 - 🎓 I have a BA in Eng/Comm (my school's journalism degree) with a minor in Graphic Design.
-- 🌱 I'm currently learning Python for data analytics from Kaggle, Codecademy, Microsoft Learn, etc.
-- 🤔 I’m looking for help with pivoting into data analytics without a Math degree.
+- 🌱 I'm currently learning Python and pandas for data analytics from [Kaggle](https://www.kaggle.com/), [Codecademy](https://www.codecademy.com/learn), [Microsoft Learn](https://docs.microsoft.com/en-us/learn/), etc.
+- 🤔 I’m looking for help with pivoting into data analytics from an office generalist path.
 - 😄 Pronouns: he/him
 - 🎯 Goal (2020): Build a small portfolio of self-directed data projects.
