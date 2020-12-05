@@ -11,8 +11,8 @@ Here are some ideas:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 🎯 Goals:
 - ⚡ Fun fact: ... -->
 
-- 🎓 I have a BA in Eng/Comm (my school's journalism degree) with a minor in Graphic Design.
+- 🎓 BA in Eng/Comm with a minor in Graphic Design
 - 😄 Pronouns: he/him
-- 🎯 Goal (2020): Publically host my portfolio of data projects.
