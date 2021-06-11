@@ -1,9 +1,13 @@
-### Hi there, I'm Joseph!
+
 
 <!--
+
+
 **jgengelhardt/jgengelhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas:
+
+### Hi there, I'm Joseph!
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +17,3 @@ Here are some ideas:
 - 😄 Pronouns: ...
 - 🎯 Goals:
 - ⚡ Fun fact: ... -->
-
-- 🎓 BA in Eng/Comm with a minor in Graphic Design
-- 😄 Pronouns: he/him
