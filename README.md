@@ -17,9 +17,9 @@ Here are some ideas:
 ## Professional Business Data Analysis Work
 I led an impactful project where I analyzed 7 years of sales data to determine that a significant amount of our summer revenue comes from customers who register for multiple programs to experience a multiple themes and don't seem to be landlocked as previously suspected. I also produced insights into ideal scheduling and location strategies. I recommended actions to management from these findings, which ensured a strong ROI during the COVID-19 pandemic. While most of the data is proprietary, I share some scripting I wrote here.
 ### Gathering & Cleaning
-The database doesn't allow us to pull all of the required records at once, so [this script](https://github.com/jgengelhardt/work-stuff/blob/main/combine_all2.py) combines and normalizes many compatible spreadsheets into a single record that can be analyzed.
+The database doesn't allow us to pull all of the required records at once, so [this Python script](https://github.com/jgengelhardt/work-stuff/blob/main/combine_all2.py) combines and normalizes many compatible Excel spreadsheets into a single record that can be analyzed.
 ### Analysis
-[This script](https://github.com/jgengelhardt/work-stuff/blob/main/multiregistration_campers.ipynb) demonstrates some of the analysis that revealed actionable insights regarding what our customers want out of our summer operations, and how much revenue is attributable to those customer desires.
+[This Python script](https://github.com/jgengelhardt/work-stuff/blob/main/multiregistration_campers.ipynb) demonstrates some of the analysis that revealed actionable insights regarding what our customers want out of our summer operations, and how much revenue is attributable to those customer desires.
 
 ## Sports Data Analysis
 You'll also find some personal projects that showcase additional tools and techniques, including web scraping and data visualization. Documentation and more detailed explainations of each project are available through the links below.
